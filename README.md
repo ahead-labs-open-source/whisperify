@@ -82,7 +82,7 @@ Whisprify is ready for deployment in Azure Container Apps or Azure App Service w
 
 ## 📄 License
 
-MIT License. This project is open-source and you can use, modify, and share it freely.
+GPL v3.0 License. This project is open-source and you can use, modify, and share it freely.
 
 ---
 
