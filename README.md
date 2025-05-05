@@ -1,6 +1,6 @@
-# 🎧 Whisprify
+# 🎧 Whisperify
 
-**Whisprify** is an open-source API to transcribe audio files into text using OpenAI's Whisper model. Easily deployable as a container in Azure, it turns any voice recording into plain text via a simple HTTP request.
+**Whisperify** is an open-source API to transcribe audio files into text using OpenAI's Whisper model. Easily deployable as a container in Azure, it turns any voice recording into plain text via a simple HTTP request.
 
 ---
 
@@ -17,7 +17,7 @@
 ## 🧱 Structure
 
 ```
-📂 whisprify/
+📂 whisperify/
 ├── transcriber_api.py      # Main API with FastAPI
 ├── requirements.txt        # Python dependencies
 ├── Dockerfile              # Production-ready container setup
