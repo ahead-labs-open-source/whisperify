@@ -7,4 +7,5 @@ RUN apt-get update && \
 WORKDIR /app
 COPY . /app
 
-CMD ["uvicorn", "transcriber_api:app", "--host", "0.0.0.0", "--port", "80"]
+# Default command to run the application
+CMD ["uvicorn", "whisperify_api:app", "--host", "0.0.0.0", "--port", "80"]
